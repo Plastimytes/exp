@@ -10,5 +10,7 @@ print(d)
 
 num1=23
 num2=12
+
+#Find the sum of the numbers
 sum=num1+num2
 print(f"The sum is : {sum}")
