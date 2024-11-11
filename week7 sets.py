@@ -2,6 +2,8 @@
 #sum
 L=[1,2,3]
 TOT=0
+
+#Creating a for loop
 for i in range(len(L)):
     TOT+=L[i]
 print(TOT)    
