@@ -1,4 +1,4 @@
-## User input
+## User input which is an integer
 num=int(input("Enter a number "))
 
 #initialize the while loop
